@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-15T14:06:01 IST" name="Default suite" finished-at="2023-02-15T14:06:01 IST" duration-ms="771">
+    <groups>
+    </groups>
+    <test started-at="2023-02-15T14:06:01 IST" name="Default test" finished-at="2023-02-15T14:06:01 IST" duration-ms="771">
+      <class name="org.inmakes.test.CalculatorReport">
+        <test-method is-config="true" signature="tc1()[pri:0, instance:org.inmakes.test.CalculatorReport@7c7b252e]" started-at="2023-02-15T14:05:24 IST" name="tc1" finished-at="2023-02-15T14:06:01 IST" duration-ms="36155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method signature="tc2()[pri:1, instance:org.inmakes.test.CalculatorReport@7c7b252e]" started-at="2023-02-15T14:06:01 IST" name="tc2" finished-at="2023-02-15T14:06:01 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method signature="tc3()[pri:2, instance:org.inmakes.test.CalculatorReport@7c7b252e]" started-at="2023-02-15T14:06:01 IST" name="tc3" finished-at="2023-02-15T14:06:01 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method signature="tc4()[pri:3, instance:org.inmakes.test.CalculatorReport@7c7b252e]" started-at="2023-02-15T14:06:01 IST" name="tc4" finished-at="2023-02-15T14:06:01 IST" duration-ms="596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+        <test-method is-config="true" signature="tc5()[pri:0, instance:org.inmakes.test.CalculatorReport@7c7b252e]" started-at="2023-02-15T14:06:01 IST" name="tc5" finished-at="2023-02-15T14:06:03 IST" duration-ms="1260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc5 -->
+      </class> <!-- org.inmakes.test.CalculatorReport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
