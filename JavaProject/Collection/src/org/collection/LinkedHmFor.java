@@ -22,6 +22,7 @@ public class LinkedHmFor {
 		lhm.put(40,40);
 		
 		Set<Entry<Integer, Integer>> entrySet = lhm.entrySet();
+		
 		for (Entry<Integer, Integer> entry : entrySet) {
 			System.out.println(entry);
 		}

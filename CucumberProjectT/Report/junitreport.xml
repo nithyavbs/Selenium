@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="31.806643">
+    <testcase classname="To Validate the functionality of Myntra application" name="Search Item" time="31.806643">
+        <system-out><![CDATA[Given To launch the chrome browser and maximize window......................passed
+When To Type and search the T-Shirt product.................................passed
+When To Select the first product and select the M size......................passed
+And To click the Add To Bag button and close the current tab................passed
+When To click the bag icon..................................................passed
+And Take the screenshot selected bag........................................passed
+Then Close the browser......................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
